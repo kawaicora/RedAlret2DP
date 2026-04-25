@@ -1,0 +1,3 @@
+[submodule "DynamicPatcher"]
+	path = DynamicPatcher
+	url = https://github.com/kawaicora/DPExtension-Dionysus.git
