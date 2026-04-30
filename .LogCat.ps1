@@ -1,0 +1,1 @@
+Get-Content .\debug\debug.log -Encoding UTF8 -Wait
